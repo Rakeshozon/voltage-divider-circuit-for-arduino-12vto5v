@@ -1,0 +1,1 @@
+# voltage-divider-circuit-for-arduino-12vto5v
